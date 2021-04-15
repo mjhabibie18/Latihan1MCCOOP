@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5903670F-FC13-4118-A49E-7D38B8B7924E}</ProjectGuid>
+    <ProjectGuid>{16D237E4-85EC-47D4-9199-CE183D8DF5C3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OPPcoba</RootNamespace>
-    <AssemblyName>OPPcoba</AssemblyName>
+    <RootNamespace>LatihanOOP</RootNamespace>
+    <AssemblyName>LatihanOOP</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

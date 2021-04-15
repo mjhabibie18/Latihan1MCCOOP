@@ -1,0 +1,7 @@
+C:\Users\aden\source\repos\LatihanOOP\LatihanOOP\bin\Debug\LatihanOOP.exe.config
+C:\Users\aden\source\repos\LatihanOOP\LatihanOOP\bin\Debug\LatihanOOP.exe
+C:\Users\aden\source\repos\LatihanOOP\LatihanOOP\bin\Debug\LatihanOOP.pdb
+C:\Users\aden\source\repos\LatihanOOP\LatihanOOP\obj\Debug\LatihanOOP.csprojAssemblyReference.cache
+C:\Users\aden\source\repos\LatihanOOP\LatihanOOP\obj\Debug\LatihanOOP.csproj.CoreCompileInputs.cache
+C:\Users\aden\source\repos\LatihanOOP\LatihanOOP\obj\Debug\LatihanOOP.exe
+C:\Users\aden\source\repos\LatihanOOP\LatihanOOP\obj\Debug\LatihanOOP.pdb

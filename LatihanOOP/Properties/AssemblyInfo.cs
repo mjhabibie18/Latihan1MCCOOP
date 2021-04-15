@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("OPPcoba")]
+[assembly: AssemblyTitle("LatihanOOP")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("OPPcoba")]
+[assembly: AssemblyProduct("LatihanOOP")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5903670f-fc13-4118-a49e-7d38b8b7924e")]
+[assembly: Guid("16d237e4-85ec-47d4-9199-ce183d8df5c3")]
 
 // Version information for an assembly consists of the following four values:
 //

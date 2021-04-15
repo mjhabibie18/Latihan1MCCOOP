@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1433
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPPcoba", "OPPcoba\OPPcoba.csproj", "{5903670F-FC13-4118-A49E-7D38B8B7924E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatihanOOP", "LatihanOOP\LatihanOOP.csproj", "{16D237E4-85EC-47D4-9199-CE183D8DF5C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5903670F-FC13-4118-A49E-7D38B8B7924E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5903670F-FC13-4118-A49E-7D38B8B7924E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5903670F-FC13-4118-A49E-7D38B8B7924E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5903670F-FC13-4118-A49E-7D38B8B7924E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D237E4-85EC-47D4-9199-CE183D8DF5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D237E4-85EC-47D4-9199-CE183D8DF5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D237E4-85EC-47D4-9199-CE183D8DF5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D237E4-85EC-47D4-9199-CE183D8DF5C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9F328366-A4FE-4179-954A-DEE902A05CF8}
+		SolutionGuid = {778C68B2-D5C7-4B46-BF91-9AB023F277F3}
 	EndGlobalSection
 EndGlobal
